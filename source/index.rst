@@ -1,6 +1,19 @@
 Including Notebooks
 ===================
 
+Example ways to hook to a notebook
+
+Create a link to the notebook
+-----------------------------
+
+Commit to github.
+
+Find notebook on github, copy link
+
+Use nbviewer and paste link to get new viewer link:
+
+https://nbviewer.jupyter.org/
+
 Include as iframe
 -----------------
 
